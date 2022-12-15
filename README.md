@@ -1,2 +1,2 @@
-# .github
-Profile Repository 
+# SvelteMate
+![](SvelteMateLogo.png)
