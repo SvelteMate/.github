@@ -1,4 +1,4 @@
 # SvelteMate
 <div style="width:50%; height:auto;">
-![](SvelteMateLogo.svg)
+<img src="SvelteMateLogo.svg" >
  </div>
