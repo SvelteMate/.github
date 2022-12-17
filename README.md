@@ -1,2 +1,2 @@
 # SvelteMate
-![](SvelteMateLogo.png)
+![](SvelteMateLogo.svg)
