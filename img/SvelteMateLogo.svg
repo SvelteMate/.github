@@ -16,8 +16,7 @@
 		}
 
 		svg {
-			width: 175px;
-			height: 200px;
+			aspect-ratio: 175/200;
 		}
 
 		.svelte {
