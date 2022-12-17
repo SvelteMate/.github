@@ -1,4 +1,4 @@
 # SvelteMate
-<div style="width:50%; height:auto;">
-<img src="SvelteMateLogo.svg" >
- </div>
+ 
+<img src="SvelteMateLogo.svg" style="width:50%; height:auto;">
+ 
