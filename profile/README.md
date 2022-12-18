@@ -5,4 +5,4 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 
  
-<a href="https://github.com/LasarKolja" title="Link to Github Profile" target="_blank" align="right" >Made with ❤️ by <img src="https://rasal.de/img/SvelteMateGitHub-22.png" alt="SvelteMate"></a>
+<a href="https://github.com/LasarKolja" title="Link to Github Profile" target="_blank" align="right" >Made with ❤️ by <img src="https://rasal.de/img/SvelteMateGitHub-18.png" alt="SvelteMate"></a>
